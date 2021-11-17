@@ -1,20 +1,23 @@
 # IEEE-WIE-Tasks-and-Projects
 
-Blockchain
+- Blockchain: Basics of blockchain
+- Machine Learning: Iris Species Logistic Regression & KNN Classification
+- Deep Learning and ANN
+- OpenCV: Image and video recognition
+- Github and C language Hackrrank
+- Web dev:HTML, CSS, Js, Bootstrap Portfolio
+- Flask: Weather API app
 
-Machine Learning
 
-Deep Learning and ANN
+# Sessions Taken by me/ I am Event Coordinator:
 
-OpenCV
+- Technova 1.0: Arduino & Sensors 
+- Technova 3.0: Django Women in STEM
+- FYI 3.0: Guest Speaker event
 
-Github and C language Hackrrank
+# Event Idea Given (For Gravitas): 
 
-Web dev-HTML, CSS, Js, Bootstrap
-
-Flask
-
-Arduino & Sensors
+[Link](https://docs.google.com/presentation/d/16fgZDQXrS6VMi_W9cG8Dhj2Ri6CtgNqrZTidQXmQ1EQ/edit?usp=sharing) to the presentation
 
 
 # Projects
@@ -23,13 +26,14 @@ Arduino & Sensors
 2. Alive - Microsoft Azure Hackathon [GitHub](https://github.com/A-GHOSH-dev/Alive__MicrosoftAzureDeveloperLeagueHack)  |  [Demo](https://www.youtube.com/watch?v=uNwJCJb5QhI&t=5s)
 3. KrishiSahayak - DoubleSlash Hackathon Winner [GitHub](https://github.com/IEEE-WIE-VIT/Krishi-Sahayak)  |  [Demo](https://www.youtube.com/watch?v=mkJ4upvsbBM&t=54s)
 4. Game Database Website using Angular and a public API [GitHub](https://github.com/A-GHOSH-dev/Angular-and-API-project)
-
-
-
+5. Todos List using ReactJs and Typescript [GitHub](https://github.com/A-GHOSH-dev/React-and-TypeScript-Project)
+6. Sentiment Analysis of Twitter using ML and NLP [GitHub](https://github.com/A-GHOSH-dev/Sentiment-Analysis-of-Twitter-using-ML-and-NLP)
 
 
 # Board
-1. Chairperson:
+
+### Chairperson:
+
 - Strong Technical, Managerial and Leadership Profile with Credibility:  https://linktr.ee/A_GHOSH_dev
 - I believe I have shown very good Leadership skills and Managerial qualities through my work in WIE.
 - The experience that I have in working in several and variety of events along with Leading many of them, will give WIE a great mileage ahead. 
@@ -44,7 +48,8 @@ Arduino & Sensors
 - I have practical knowledge of all domains that are there in WIE. I have skills required in all the domains: Technical, Management, Design, Projects, Finance&Sponsorship, Editorial.
 - I believe I am Quick to respond to issues, Problem-solver, Creative and flexible, Easily approachable and I have the Capability to understand others' problems.
 
-2. Technical Head
+### Technical Head
+
 - Collection of all my Technical Domain Tasks and Projects Domain Projects done and submitted in WIE:  https://github.com/A-GHOSH-dev/IEEE-WIE-Tasks-and-Projects
 - Active participated in all Technical and Projects Work and Events.
 - Conducted a Technical Session: Technova 1.0 on Arduino and Sensors |  Upcoming session is on Django
@@ -52,38 +57,36 @@ Arduino & Sensors
 - I led the team which represented WIE in AccessDenied and we won in that Hackathon.
 - I led WIE team in several other hackathons and we have built several projects in team.
 - I have experience and good capability to explain technical topics to my peers and juniors. My juniors like my guidance as well. They personally approach and ask doubts, ask for technical guidance over linkedin as well. I have also been invited as guest speaker for an upcoming technical workshop by an University. I believe these guiding capability will definitely help the members of WIE to enrich their technical skills and will take WIE towards excellence as a technical chapter.
-- My Technical Skills
-1. Frontend Development: HTML5, Cascading Style Sheets CSS3, JavaScript, Tailwinds CSS, Bootstrap, Angular, ReactJs, TypeScript .
-2. Backend Development: Django, Flask, NodeJs
-3. Database Systems: SQL
-4. Programming Language: Python, C, C++
-5. UI/UX: Figma, Canva, Adobe Photoshop
-6. Open Source 
-7. Data Structures & Algorithms 
-8. Machine Learning and Computer Vision: Machine Learning Basics, OpenCV
-9. Augmented Reality- Unity 3D, Vuforia, C# 
-10. App Development - MIT App Inventor, Android Studio
-11. IoT and Electronics & Hardware- Arduino & Sensors , IoT servers/clouds, hardware, software
-- Managerial Skills
-1. Business Model Development and Pitching
-2. Marketing & Sponsorship 
-3. Presentation Development 
-4. Project Management 
-5. Leadership Skills
-6. Good Communication skills 
-7. Strategic Planning 
-8. Public Speaking 
-9. Networking 
-10. Team-Worker
+
+#### My Technical Skills
+- Frontend Development: HTML5, Cascading Style Sheets CSS3, JavaScript, Tailwinds CSS, Bootstrap, Angular, ReactJs, TypeScript .
+- Backend Development: Django, Flask, NodeJs
+- Database Systems: SQL
+- Programming Language: Python, C, C++
+- UI/UX: Figma, Canva, Adobe Photoshop
+- Open Source 
+- Data Structures & Algorithms 
+- Machine Learning and Computer Vision: Machine Learning Basics, OpenCV
+- Augmented Reality- Unity 3D, Vuforia, C# 
+- App Development - MIT App Inventor, Android Studio
+- IoT and Electronics & Hardware- Arduino & Sensors , IoT servers/clouds, hardware, software
+
+#### Managerial Skills
+- Business Model Development and Pitching
+- Marketing, Finance & Sponsorship 
+- Presentation Development 
+- Project Management 
+- Leadership Skills
+- Good Communication skills 
+- Strategic Planning 
+- Public Speaking 
+- Networking 
+- Team-Worker
 
 
-
-
-
-
-
-
-### Events
+## Events
+- Machine-o-Mania
+- TechHunt
 - FYI with WIE 4.0
 - Technova 3.0
 - Hacktoberfest contribution
@@ -102,7 +105,8 @@ Arduino & Sensors
 - Women Wednesday Reels
 - Hackode (in website team and contributed in Sponsorship as well, during event planning)
 
-### Goal
+## Goal
+
 We, me and my fellow board members as the WIE board, will aim together to take our chapter to a different level. We will take care of all our members and make sure they all receive the best learning in all domains, technical, managerial, design and editorial. Our WIE team as a whole will deliver outstanding events and will make all the previous and present members and themselves proud. All members will receive the proper guidance from us, the board, and will be proud to tell they are a member of WIE. 
 
 ### Few Event goals: 
@@ -112,5 +116,13 @@ We, me and my fellow board members as the WIE board, will aim together to take o
 2. Being a Microsoft Learn Student Ambassador, we can plan to collaborate with Microsoft Learn for few events. We can receive sponsorship as well from them.
 
 3. We will conduct our Hackathon Hackode successfully.
+
+4. Collaborating with Women Who Code/ Girl Code It.
+
+5. OutReach Division of WIE where our cc members teach computer science related subjects and coding etc to NGO students and children/ women.
+
+6. Collaborating with Coding Ninjas as I am Ninja Entreupreneur. They can help as sponsors as well.
+
+
 
 
