@@ -19,6 +19,11 @@
 
 [Link](https://docs.google.com/presentation/d/16fgZDQXrS6VMi_W9cG8Dhj2Ri6CtgNqrZTidQXmQ1EQ/edit?usp=sharing) to the presentation
 
+# YouTube Videos for WIE:
+
+- Tech Series: Django [View](https://www.youtube.com/watch?v=kTbDRtJzC6I&t=38s)
+- Tech Series: Complete Web Development Roadmap [View](https://www.youtube.com/watch?v=iBvhv5Z5yBo&t=341s)
+
 
 # Projects
 
